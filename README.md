@@ -207,4 +207,4 @@ SIW is available as a free download, providing all features and updates without 
 Take control of your computer's information today! Download SIW free and experience the power of complete system analysis.
 
 ---
-**Last updated:** 2026-09-19 22:44:18 UTC
+**Last updated:** 2026-09-20 00:48:15 UTC
